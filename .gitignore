@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+.env
+.env.local
+*.env
+
+# Arquivos de Estado e Dados Locais
+*.json
+*.tmp
+*.log
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs & SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
